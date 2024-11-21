@@ -1,0 +1,3 @@
+FantasyRPGUnitTesting.ACreature.CanInflictABaseDamage
+FantasyRPGUnitTesting.ACreature.ReportsItsRaceAsUnknown
+FantasyRPGUnitTesting.Tests.Test1

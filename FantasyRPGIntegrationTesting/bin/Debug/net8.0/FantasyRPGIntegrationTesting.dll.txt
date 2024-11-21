@@ -1,0 +1,3 @@
+FantasyRPGIntegrationTesting.ACreature.CanInflictBaseDamage
+FantasyRPGIntegrationTesting.ARandomGenerator.CanGenerateARandomIntegerWithinRange
+FantasyRPGIntegrationTesting.Tests.Test1

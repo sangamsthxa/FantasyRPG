@@ -1,0 +1,11 @@
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/bin/Debug/net8.0/FantasyRPG.deps.json
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/bin/Debug/net8.0/FantasyRPG.dll
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/bin/Debug/net8.0/FantasyRPG.pdb
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.AssemblyInfoInputs.cache
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.AssemblyInfo.cs
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.csproj.CoreCompileInputs.cache
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.dll
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/refint/FantasyRPG.dll
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/FantasyRPG.pdb
+/Users/stha_sangam/Documents/CSCI5220/FantasyRPG/FantasyRPG/obj/Debug/net8.0/ref/FantasyRPG.dll

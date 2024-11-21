@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FantasyRPGConsoleApplication/1.0.0": {
+        "dependencies": {
+          "FantasyRPG": "1.0.0"
+        },
+        "runtime": {
+          "FantasyRPGConsoleApplication.dll": {}
+        }
+      },
+      "FantasyRPG/1.0.0": {
+        "runtime": {
+          "FantasyRPG.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FantasyRPGConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FantasyRPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
